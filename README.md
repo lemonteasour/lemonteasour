@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Jay!
 
-🚀 iOS Developer | 🌐 Front-End Web Enthusiast
+🧑‍💻 Front-End Developer | 🎮 Game Development Enthusiast
 
 💼 Software Engineer from Hong Kong, based in Tokyo, Japan.
 
 🎯 Focused on creating elegant, user-friendly apps using Swift and modern UI frameworks.
 
-💡 Previously spent 2 years crafting beautiful web experiences using React with TypeScript.
+🌐 Has experience in front-end website development using React with TypeScript.
 
 ---
 
@@ -33,17 +33,23 @@
 
 ---
 
-### 💡 Fun Facts
+### 🎯 Ongoing Side Projects
 
-- 🎓 Self-taught iOS developer with a design-first mindset
-- 🖥️ Built several websites & SPAs before switching to mobile development
-- 🎨 Collaborated with other designers and developers and created a unified design system across multiple applications
-- 🎮 Occasionally dabbling in game development by making games in Godot engine
+Sorted based on priority.
+
+📱 Create a cooking recipe memo iOS app and publish it to the App Store
+
+🖥️ Keep updating my [portfolio website](https://www.lemonteasour.com/)
+
+🗓️ Create a event scheduling web app
+
+🎮 Make a game in Godot engine
 
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/jayhuich)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jayhuich@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jayhuich)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:jayhuich@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/lemonteasour)
+[![Discord](https://img.shields.io/badge/-Discord-%235865F2?logo=discord&logoColor=white)](https://www.linkedin.com/in/lemonteasour)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lemonteasour)
